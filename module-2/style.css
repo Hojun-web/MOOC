@@ -34,7 +34,8 @@ h1 {
   border: 1px solid black;
   width: 90%;
   height: auto;
-  margin: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
   color: black
   font-size: 25px;
   padding: 2%;
